@@ -1,3 +1,8 @@
 body{
 background: red;
 }
+image{
+    width: 50PX;
+    height: 50PX;
+    border-radius: 50%;
+}
